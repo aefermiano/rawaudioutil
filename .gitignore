@@ -1,0 +1,7 @@
+CMakeFiles
+CMakeCache.txt
+*.user
+Makefile
+*.cmake
+**install_manifest.txt
+rawaudioutil
